@@ -49,4 +49,4 @@ The **AI Traffic Management System** is a smart traffic control solution that us
 This project is licensed under the **MIT License**.
 
 ## Contact
-For inquiries or contributions, contact **Priyadharishni v** via [LinkedIn](https://www.linkedin.com/in/your-profile/) or [GitHub](https://github.com/your-profile).
+For inquiries or contributions, contact **Priyadharishni v** via [LinkedIn](https://www.linkedin.com/in/suriya273?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZe9%2BOj49S4a6tvr8aBFRLg%3D%3D) or [GitHub](https://github.com/SURIYA273).
